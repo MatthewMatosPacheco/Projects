@@ -1,5 +1,5 @@
 import random, pylab
-
+'''Simulating drunk walk destination, with a 'vortex' that transports the drunk'''
 # set line width
 pylab.rcParams['lines.linewidth'] = 4
 # set font size for titles
